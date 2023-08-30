@@ -1,4 +1,4 @@
-# Analysis of NY Parking Violations || NBA Shot Logs
+
 
 ## Analysis of NY Parking Violations
 
