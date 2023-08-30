@@ -13,7 +13,7 @@ The following 4 questions were answered using this code:
 
 Proceed to clone the repository into the Cloud cluster root folder (./).
 
-`git clone https://github.com/rosamsierrap/Project1.git`
+`git clone https://github.com/rosamsierrap/NY-Parking-Tickets.git `
 
 
 ## Data
